@@ -1,7 +1,3 @@
-# saathi-cloud-based-whatsaap-chat-bot
-AWS based whatsapp chat bot which was deployed on aws services
-
-
 The Cloud-based Student Information Chatbot System is a web application designed to provide students with answers to their queries using artificial intelligence (AI). This chatbot is capable of understanding and analyzing user inputs without requiring any specific format, allowing students to ask questions in a conversational manner. The system uses built-in AI algorithms to deliver relevant responses based on the student's queries, making it feel as if a real person is responding.
 
 If the chatbot provides an incorrect or unsatisfactory answer, the student can flag the response as invalid. This notifies the system admin, who can then review these flagged responses through an admin portal. The admin has the option to either delete the invalid response or provide a more accurate answer for the flagged question.
